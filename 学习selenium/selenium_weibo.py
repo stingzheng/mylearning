@@ -21,7 +21,10 @@ time.sleep(1)
 dr.find_element_by_id("loginAction").click()
 time.sleep(2)
 
+dr.get("http://weibo.cn")
+
 def user_info(user_id):
+    # eg:guangxianliuyan
     global dr
     url = "http://weibo.cn/" + user_id
     dr.get(url)
@@ -39,6 +42,9 @@ def user_info(user_id):
     pattern = r"\d+\.?\d*"
     result = re.findall(pattern, string_num.text)
     print(string_num.text)
+    print("微博数：" + str(result[0]))
+    print("关注数：" + str(result[1]))
+    print("粉丝数：" + str(result[2]))
     print("\n*******************")
     
     

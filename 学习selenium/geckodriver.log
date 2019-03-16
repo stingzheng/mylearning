@@ -141,3 +141,66 @@ console.error: BroadcastService:
 [GPU 10184,
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1552633096818	mozrunner::runner	INFO	Running command: "D:\\ProgramData\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.PC-\\AppData\\Local\\Temp\\rust_mozprofile.XXCLsHPI4cqa"
+1552633098461	Marionette	INFO	Listening on port 52649
+1552633098932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552633098954	Marionette	DEBUG	[4294967297] Frame script loaded
+1552633098955	Marionette	DEBUG	[4294967297] Frame script registered
+1552633098963	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1552633099436	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1552633099573	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://passport.weibo.cn/signin/login
+1552633099574	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://passport.weibo.cn/signin/login
+1552633103820	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+[Parent 9352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552633188545	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://weibo.cn/
+1552633188860	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://weibo.cn/
+1552633188874	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://weibo.cn/
+1552633188892	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://weibo.cn/
+[Child 3104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3104, Ch[Child 5608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5608, Chrome_ChildThre[Parent 9352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11260, Chrome_Child1552633198800	Marionette	INFO	Stopped listening on port 52649
+[GPU 7056, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1552633259375	mozrunner::runner	INFO	Running command: "D:\\ProgramData\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.PC-\\AppData\\Local\\Temp\\rust_mozprofile.vaWasuay0UTk"
+1552633260661	Marionette	INFO	Listening on port 52768
+1552633260991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552633261015	Marionette	DEBUG	[6442450945] Frame script loaded
+1552633261017	Marionette	DEBUG	[6442450945] Frame script registered
+1552633261025	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1552633261670	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1552633261787	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://passport.weibo.cn/signin/login
+1552633261788	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://passport.weibo.cn/signin/login
+1552633266036	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 11380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552633286031	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://m.weibo.cn/
+1552633286451	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://m.weibo.cn/
+1552633286452	Marionette	DEBUG	[6442450945] Received DOM event unload for https://m.weibo.cn/
+1552633286463	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://weibo.cn/
+1552633286479	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1552633286562	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://weibo.cn/
+[Parent 11380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1552633357393	Marionette	DEBUG	[6442450953] Frame script loaded
+1552633357409	Marionette	DEBUG	[6442450953] Frame script registered
+JavaScript error: chrome://marionette/content/driver.js, line 1294: TypeError: WeakMap key must be an object, got undefined
+1552633357621	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 457: TypeError: reply[0] is undefined
+1552633359159	Marionette	DEBUG	[2147483655] Frame script loaded
+1552633359177	Marionette	ERROR	[2147483655] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 457: TypeError: reply[0] is undefined
+1552633359197	Marionette	DEBUG	[2147483657] Frame script loaded
+1552633359197	Marionette	ERROR	[2147483657] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 457: TypeError: reply[0] is undefined
+JavaScript error: chrome://marionette/content/driver.js, line 1294: TypeError: WeakMap key must be an object, got undefined
+1552633361563	Marionette	ERROR	[40] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 457: TypeError: reply[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
