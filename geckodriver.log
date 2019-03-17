@@ -19,4 +19,49 @@ JavaScript error: https://niaoz.net/moko/100001743.html, line 385: ReferenceErro
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
 
 [Child 1684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
-[Child 1684, Chrome_ChildThre
+[Child 1684, Chrome_ChildThreJavaScript error: https://niaoz.net/login, line 175: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/moko/100001743.html, line 385: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/login, line 175: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/login, line 166: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/alipay, line 108: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/profile, line 252: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/forum, line 460: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/model/%e6%9e%97%e5%ad%90%e9%a2%9c, line 423: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/model/%e6%9e%97%e5%ad%90%e9%a2%9c, line 423: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/forum, line 460: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/original/100003372.html, line 379: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/model/%e5%86%b0%e5%86%b0, line 423: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/moko/100001314.html, line 395: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/vip, line 120: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/forum, line 460: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/model/%e7%b1%b3%e5%85%b0, line 348: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/moko/100001361.html, line 396: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/moko/100001361.html, line 396: ReferenceError: delayLoad is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 13276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13276, Chrome_1552835149351	Marionette	INFO	Stopped listening on port 51448
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6312, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
