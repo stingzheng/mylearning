@@ -1,0 +1,67 @@
+1552788804664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tjuar\\AppData\\Local\\Temp\\rust_mozprofile.1MuLEIZponLb"
+1552788804967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552788804967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552788805950	Marionette	INFO	Listening on port 51448
+1552788806306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://niaoz.net/moko/100001749.html, line 385: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/moko/100001748.html, line 360: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/moko/100001747.html, line 360: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/moko/100001745.html, line 385: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/moko/100001744.html, line 380: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/moko/100001743.html, line 385: ReferenceError: delayLoad is not defined
+[Child 2196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2196, Chrome_Chconsole.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Child 1684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1684, Chrome_ChildThreJavaScript error: https://niaoz.net/login, line 175: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/moko/100001743.html, line 385: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/login, line 175: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/login, line 166: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/alipay, line 108: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/profile, line 252: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/forum, line 460: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/model/%e6%9e%97%e5%ad%90%e9%a2%9c, line 423: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/model/%e6%9e%97%e5%ad%90%e9%a2%9c, line 423: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/forum, line 460: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/original/100003372.html, line 379: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/model/%e5%86%b0%e5%86%b0, line 423: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/moko/100001314.html, line 395: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/vip, line 120: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/forum, line 460: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/model/%e7%b1%b3%e5%85%b0, line 348: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/moko/100001361.html, line 396: ReferenceError: delayLoad is not defined
+JavaScript error: https://niaoz.net/moko/100001361.html, line 396: ReferenceError: delayLoad is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 13276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13276, Chrome_1552835149351	Marionette	INFO	Stopped listening on port 51448
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6312, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
