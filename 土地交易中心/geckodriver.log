@@ -4793,3 +4793,476 @@ JavaScript error: http://www.tjlandmarket.com/notice/view_page/3901a6e8-a5f7-4d7
 [GPU 7148, Chrom
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1552921991342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tjuar\\AppData\\Local\\Temp\\rust_mozprofile.sPmle5DF0rIx"
+1552921991710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552921991710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552921992670	Marionette	INFO	Listening on port 50877
+1552921992965	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/b510fb04-ebdc-4ed9-adee-f405353de7f8.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/37239818-b691-45be-bd6e-12191b4680dc.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9af4e309-9300-485e-bd9e-55c1015948fd.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/4d7fef96-1e22-4675-9273-e38a6a80e222.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/c13315c4-e9f9-462a-887b-5fa219c1bd4f.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/8e1fe866-619b-4995-aeb3-e9d271403de2.html, line 265: TypeError: shutter is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/90709bef-a5a6-431e-b264-ab311b09b2e4.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/3e560a95-437a-4380-ba77-97297cfb2565.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/6821e1ec-8f89-41cd-9661-850cfe7c524c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/eb53e8a5-2dfb-4d4b-8615-34df09c82b83.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/766dc47a-ff6a-4bae-899d-1984e107a0e4.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/491050c6-4258-4ae0-a2a5-85d57ac4017a.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/05f7ac3c-86f2-45c6-8618-8bb90b532442.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/ec4248d0-8f52-4b63-bdd0-57d86a219c25.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/1c27b895-f96e-422b-87a9-db2964d5b9e8.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/e8af865c-af4a-44bc-85c2-5ed33c2f4edc.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/94db2a89-554c-4ccb-9c21-5c4b51650512.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/d658a4d0-6207-4f60-93dc-5407c593dd02.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/4bff86e8-d72d-4fa8-b9a0-97a67e138b14.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/640002c1-87e8-4397-a401-3002323b7305.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/cb39f548-bd53-4f4d-abd1-dce63dadb85c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/3884d2a9-bdb8-482d-944c-4e20fb6d9bfe.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/2c3f10df-5e77-438d-8cb5-9c2ed46a0416.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/2c3f10df-5e77-438d-8cb5-9c2ed46a0416.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/88165c1b-f943-4719-8a2e-c0c6048959b0.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/d958f724-90a0-468a-b532-1873fcf44f85.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/47bc3ef8-7605-455a-9414-299185bcae5d.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/47bc3ef8-7605-455a-9414-299185bcae5d.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/e46eb9a3-5a43-47fb-be1a-8bc9b77f04ed.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/3901a6e8-a5f7-4d7d-b2b1-b3c46a950991.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/d13882e1-f4b3-48d8-92ca-5d5b154da6dd.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/ceb2eff3-e67f-455b-8aa3-cb7c832b4386.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/ad4589d7-acb0-4350-871e-07a16b20e893.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/7a04150b-c7e8-4b06-826a-6099b9c527f3.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/c7b935be-6cec-46c6-91d3-6c5cddbeb20b.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/b28ae8c9-cec9-4aa6-8ae5-228756f3b2d7.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/ce22e0bb-2e16-451d-aa63-6dd840b1714a.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/ad9d02d8-d7e4-4a8b-9e63-6a55e187ab51.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/5e73a872-e7cc-4c19-935c-ccb84aeea014.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/e3ee7c16-eef2-497f-90d7-6d20ecca1464.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/7ae0f483-70e4-4cb6-adc1-3a2715d71db4.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/7ae0f483-70e4-4cb6-adc1-3a2715d71db4.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/de8ab276-e283-4cf3-aff6-a3637ccca6d3.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/129ca62b-5264-4101-938c-c32e78ea6f32.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/dd28befb-3b50-4bdb-9c9d-39fcc828a0ef.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/c0316475-42f3-4a00-a0b9-f0614b065c87.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/e8b1aa0c-a74a-40b5-b95d-8c342b9f33b2.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+1552922821261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote"JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shuJavaScript errJavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shuJavaScript errJavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shuJavaScript error: http://www.tjlandmarket.com/notice/view_page/c13315c4-e9f9-462a-887b-5fa219c1bd4f.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/8e1fe866-619b-4995-aeb3-e9d271403de2.html, line 265: TypeError: shutter is null
+[Child 12840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12840,JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+1552922946011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote"JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9866246a-98f3-4d5f-bfa3-2c22bc59c43c.html, line 265: TypeError: shutter is null
+[Child 7256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chro[Child 11524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1552922963952	Marionette	INFO	Stopped listening on port 50877
+[GPU 14168, Chrom
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+: cannot send/recv
+
+1552922985733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tjuar\\AppData\\Local\\Temp\\rust_mozprofile.xmPTG1EJ8oJZ"
+1552922986035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552922986036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552922986979	Marionette	INFO	Listening on port 51227
+1552922987378	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/b510fb04-ebdc-4ed9-adee-f405353de7f8.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/37239818-b691-45be-bd6e-12191b4680dc.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9af4e309-9300-485e-bd9e-55c1015948fd.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/4d7fef96-1e22-4675-9273-e38a6a80e222.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/c13315c4-e9f9-462a-887b-5fa219c1bd4f.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/90709bef-a5a6-431e-b264-ab311b09b2e4.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/3e560a95-437a-4380-ba77-97297cfb2565.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/6821e1ec-8f89-41cd-9661-850cfe7c524c.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/eb53e8a5-2dfb-4d4b-8615-34df09c82b83.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/766dc47a-ff6a-4bae-899d-1984e107a0e4.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/491050c6-4258-4ae0-a2a5-85d57ac4017a.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/53373a4a-199c-443a-83af-9199fb2e9968.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/2220957b-c6df-4b8a-ae30-dba490f12b68.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/2220957b-c6df-4b8a-ae30-dba490f12b68.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/05f7ac3c-86f2-45c6-8618-8bb90b532442.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/ec4248d0-8f52-4b63-bdd0-57d86a219c25.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/1c27b895-f96e-422b-87a9-db2964d5b9e8.html, line 265: TypeError: shutter is null
+[Child 10976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 10528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1552923054345	Marionette	INFO	Stopped listening on port 51227
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 4940, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1552923181391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tjuar\\AppData\\Local\\Temp\\rust_mozprofile.r4ch7baOS2AK"
+1552923181703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552923181703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552923182642	Marionette	INFO	Listening on port 51282
+1552923183050	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 2624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1552923196528	Marionette	INFO	Stopped listening on port 51282
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1552923201038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tjuar\\AppData\\Local\\Temp\\rust_mozprofile.wfN0VfyCwpAA"
+1552923201334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552923201334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552923202280	Marionette	INFO	Listening on port 51310
+1552923202713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/b510fb04-ebdc-4ed9-adee-f405353de7f8.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/37239818-b691-45be-bd6e-12191b4680dc.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/9af4e309-9300-485e-bd9e-55c1015948fd.html, line 265: TypeError: shutter is null
+[Parent 6528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 6528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src[/ipc/chromium/src/Child 2372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2372, Chrome_ChildThread] WARNING: pipe [Parent 6528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5624, Ch1552923217976	Marionette	INFO	Stopped listening on port 51310
+[GPU 10272, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1552923328760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tjuar\\AppData\\Local\\Temp\\rust_mozprofile.o49XZuNkjD10"
+1552923329071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552923329071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552923330030	Marionette	INFO	Listening on port 51351
+1552923330400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/b510fb04-ebdc-4ed9-adee-f405353de7f8.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/37239818-b691-45be-bd6e-12191b4680dc.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/c13315c4-e9f9-462a-887b-5fa219c1bd4f.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/8e1fe866-619b-4995-aeb3-e9d271403de2.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/90709bef-a5a6-431e-b264-ab311b09b2e4.html, line 265: TypeError: shutter is null
+[Child 11084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromi[Parent 14276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1552923354007	Marionette	INFO	Stopped listening on port 51351
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1552923373192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tjuar\\AppData\\Local\\Temp\\rust_mozprofile.wpnXyBrKG2KW"
+1552923373488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552923373488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552923374428	Marionette	INFO	Listening on port 51390
+1552923374853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/b510fb04-ebdc-4ed9-adee-f405353de7f8.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/37239818-b691-45be-bd6e-12191b4680dc.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/4d7fef96-1e22-4675-9273-e38a6a80e222.html, line 265: TypeError: shutter is null
+JavaScript error: http://www.tjlandmarket.com/notice/view_page/8e1fe866-619b-4995-aeb3-e9d271403de2.html, line 265: TypeError: shutter is null
+[Child 6048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 11532, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/ch1552923395068	Marionette	INFO	Stopped listening on port 51390
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6824, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
