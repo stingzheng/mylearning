@@ -9,7 +9,6 @@ from selenium import webdriver
 from time import sleep
 import random
 import csv
-import os
 
 
 # 构造地址池
