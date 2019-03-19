@@ -109,15 +109,14 @@ def dividecsv(csvfile):
             num += 1
     return None
 
-if __name__ == "__main__":
-#    threads = []
-    main('landurls6.csv')
-    print('*'*45)
-    print('*'*15 + "   ALL DONE!   " + '*'*15)
-    print('*'*45)
+# 单线程试验
+#if __name__ == "__main__":
+##    threads = []
+#    main('landurls6.csv')
+#    print('*'*45)
+#    print('*'*15 + "   ALL DONE!   " + '*'*15)
+#    print('*'*45)
 
-
-'''
 if __name__ == "__main__":
 #    threads = []
     for i in range(7):
@@ -127,6 +126,4 @@ if __name__ == "__main__":
     print('*'*45)
     print('*'*15 + "   ALL DONE!   " + '*'*15)
     print('*'*45)
-'''
-
 
