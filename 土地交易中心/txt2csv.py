@@ -16,25 +16,25 @@ def txt2csv(filepath, infilename, outfilename='landinfo.csv'):
                 key = line.strip().split("：")[0].strip().replace(u'\u3000', u'').replace(' ','')
                 value = line.strip().split("：")[-1].strip().replace(u'\u3000', u'').replace(' ','')
                 res.setdefault(key, value)
-        print(res)
+#        print(res)
         print(f"载入文件{name}------------------成功")
     except:
         print(f"载入文件{name}------------------失败")
         with open('txt2csvERR.log', 'a') as fp2:
-            fp2.write(f"载入文件{name}------------------失败")
+            fp2.write(f"载入文件{name}------------------失败\n")
         return -1
     try:
-        print(f"写入文件{outfilename}")
+        print(f"写入文件{infilename}")
         with open(outfilename, 'a', newline='') as csvfile:
             writer = csv.writer(csvfile)
             writer.writerow([res['地块编号'],res['具体位置'],res['出让面积'],res['容积率'],
                              res['用途'],res['供地方式'],res['使用年限'],res['竞得(人)'],
                              res['成交价格'],res['成交日期']])
-        print(f"写入文件{outfilename}------------------成功")
+        print(f"写入文件{infilename}------------------成功")
     except:
-        print(f"写入文件{outfilename}------------------失败")
+        print(f"写入文件{infilename}------------------失败")
         with open('txt2csvERR.log', 'a') as fp2:
-            fp2.write(f"写入文件{outfilename}------------------失败")
+            fp2.write(f"写入文件{infilename}------------------失败\n")
         return -2
     return 0
 

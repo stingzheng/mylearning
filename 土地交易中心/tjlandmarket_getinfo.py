@@ -101,7 +101,7 @@ def dividecsv(csvfile):
         reader = csv.reader(fp)
         num = 0
         for line in reader:
-            filenum= num // 1000
+            filenum= num // 2000
             filename = csvfile.split('.')[0] + str(filenum) + ".csv"
             with open(filename, 'a', newline='') as fp2:
                 writer = csv.writer(fp2)
@@ -119,7 +119,7 @@ def dividecsv(csvfile):
 
 if __name__ == "__main__":
 #    threads = []
-    for i in range(7):
+    for i in range(4):
         t = threading.Thread(target=main, args=(f"landurls{i}.csv",))
         t.start()
     t.join()
