@@ -81,11 +81,11 @@ def main(csvname):
     fp = open(csvname, 'r')
     reader = csv.reader(fp)
     for i in reader:
-        url = i[0]
+        url = i[1]
         print(f"当前解析页面：\n{url}")
         res = getinfo(url, dr)
         if res != -1:
-            writelandinfo(".\\landinfo", res[0], res[1])
+            writelandinfo(".\\landdiff", res[0], res[1])
         else:
             continue
         # 暂停一下，缓冲缓冲
@@ -110,20 +110,20 @@ def dividecsv(csvfile):
     return None
 
 # 单线程试验
-#if __name__ == "__main__":
-##    threads = []
-#    main('landurls6.csv')
-#    print('*'*45)
-#    print('*'*15 + "   ALL DONE!   " + '*'*15)
-#    print('*'*45)
-
 if __name__ == "__main__":
 #    threads = []
-    for i in range(4):
-        t = threading.Thread(target=main, args=(f"landurls{i}.csv",))
-        t.start()
-    t.join()
+    main('diffurl.csv')
     print('*'*45)
     print('*'*15 + "   ALL DONE!   " + '*'*15)
     print('*'*45)
+
+#if __name__ == "__main__":
+##    threads = []
+#    for i in range(4):
+#        t = threading.Thread(target=main, args=(f"landurls{i}.csv",))
+#        t.start()
+#    t.join()
+#    print('*'*45)
+#    print('*'*15 + "   ALL DONE!   " + '*'*15)
+#    print('*'*45)
 
