@@ -40,7 +40,7 @@ def txt2csv(filepath, infilename, outfilename='landinfo.csv'):
 
 
 def main():
-    filepath = ".\\landinfo"
+    filepath = ".\\landdiff"
     if not os.path.exists(filepath):
         os.makedirs(filepath)
     for infilename in os.listdir(filepath):
@@ -48,8 +48,8 @@ def main():
 
 
 if __name__ == '__main__':
-    outfilename = 'landinfo.csv'
-    with open(outfilename, 'w', newline='') as csvfile:
+    outfilename = 'landinfo_withDIFF.csv'
+    with open(outfilename, 'a', newline='') as csvfile:
         writer = csv.writer(csvfile)
         header = ['地块编号', '具体位置', '出让面积', '容积率', '用途', '供地方式', '使用年限', '竞得(人)', '成交价格', '成交日期']
         writer.writerow(header)
